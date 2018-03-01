@@ -14,6 +14,7 @@ body{
 .main_nav ul{
 	list-style-type: none;
 	text-align: center;
+	
 
 }
 .main_nav li{
@@ -26,6 +27,7 @@ body{
 }
 .main_nav{
 	background-color: #364677;
+	padding: 10px 0;
 }
 .main_nav li img{
 	width: 50%;
